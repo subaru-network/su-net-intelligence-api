@@ -1,4 +1,4 @@
-Ethereum Network Intelligence API
+Zenanet Network Intelligence API
 ============
 [![Build Status][travis-image]][travis-url] [![dependency status][dep-image]][dep-url]
 
